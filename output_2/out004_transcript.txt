@@ -1,0 +1,26 @@
+SPEAKER 1 00:00:00
+ Is it the sort of thing that you want to use or not?
+SPEAKER 1 00:00:03
+ Have you looked at that?
+SPEAKER 1 00:00:04
+ I mean, I had a web page up.
+SPEAKER 2 00:00:05
+ Right, so I actually mostly need to be able to link up or
+SPEAKER 2 00:00:11
+ it's a question both of what the representation is.
+SPEAKER 2 00:00:13
+ I guess I am going to be standing up and drawing up.
+SPEAKER 2 00:00:15
+ OK, yeah, so you should definitely.
+SPEAKER 1 00:00:17
+ So it definitely had that as a concept.
+SPEAKER 1 00:00:19
+ So it has a single timeline.
+SPEAKER 1 00:00:21
+ And then you can have lots of different sections, each of
+SPEAKER 1 00:00:24
+ which have IDs attached to it.
+SPEAKER 1 00:00:26
+ And then you can refer from other sections to those IDs,
+SPEAKER 1 00:00:29
+ if you want to.

@@ -1,0 +1,13 @@
+
+SPEAKER 1 0:00:00
+So that you start with a timeline tag. 
+SPEAKER 3 0:00:08
+Timeline. 
+SPEAKER 1 0:00:09
+And then you have a bunch of times. I don't remember exactly what my notation was. 
+SPEAKER 2 0:00:14
+Oh, I remember seeing what time it was, yeah. 
+SPEAKER 1 0:00:16
+Yeah, t equals 1.32. And then I also had optional things like accuracy. And then ID equals t1. 
+SPEAKER 3 0:00:28
+One seven and then. 

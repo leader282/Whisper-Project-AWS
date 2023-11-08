@@ -1,0 +1,11 @@
+
+SPEAKER 1 0:00:00
+Is it the sort of thing that you want to use or not? Have you looked at that? I mean, I had a web page up. 
+SPEAKER 2 0:00:06
+Right, so I actually mostly need to be able to link up or it's a question both of what the representation is. 
+SPEAKER 1 0:00:14
+I guess I am going to be standing up and drawing up. 
+SPEAKER 2 0:00:15
+OK, yeah, so you should definitely. 
+SPEAKER 1 0:00:17
+So it definitely had that as a concept. So it has a single timeline. And then you can have lots of different sections, each of which have IDs attached to it. And then you can refer from other sections to those IDs, if you want to. 
